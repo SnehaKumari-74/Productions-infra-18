@@ -10,6 +10,10 @@ resource_group = {
         location= "westus"
 
     }
+    rg3={
+        name = "canti"
+        location= "centralus"
+    }
 
    
 }
